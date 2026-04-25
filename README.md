@@ -27,4 +27,8 @@ This project analyzes user input text and classifies it into Positive, Negative,
 - Input text → Sentiment result
 
 ## 👩‍💻 Author
-Your Name
+Divyanshi Chaurasia
+B.Tech CSE Student
+Github:https://github.com/divyanshichaurasia26-hue
+Linkedin:https://linkedin.com/in/divyanshi-chaurasia26
+
