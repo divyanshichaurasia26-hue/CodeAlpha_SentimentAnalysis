@@ -1,1 +1,30 @@
-# CodeAlpha_SentimentAnalysis
+# CodeAlpha - Sentiment Analysis
+
+## 📌 Project Overview
+This project analyzes user input text and classifies it into Positive, Negative, or Neutral sentiment using NLP techniques.
+
+## 🚀 Features
+- Real-time sentiment prediction
+- Simple and interactive UI
+- Flask-based web application
+
+## 🛠️ Technologies Used
+- Python
+- Flask
+- HTML
+- CSS
+- NLP
+
+## 📂 How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+2. Run the app:
+   python app.py
+3. Open browser:
+   http://127.0.0.1:5000/
+
+## 📊 Output
+- Input text → Sentiment result
+
+## 👩‍💻 Author
+Your Name
